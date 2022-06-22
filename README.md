@@ -1,5 +1,11 @@
-# Welcome to GitHub Desktop!
+My name is BJW333
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Im a aspiring cybersecurity person looking to get into the field after high school. 
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+I know all of these topic below
+----------------------------------------------------
+intermedite python 
+intermedite networking 
+intermedite java 
+intermedite linux 
+----------------------------------------------------
