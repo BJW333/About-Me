@@ -10,5 +10,12 @@ I know all of these topic below
 🐍 intermedite python, 
 🔌intermedite networking, 
 intermedite java, 
-intermedite linux 
+intermedite linux
+pentesting 
+windows and macos systems 
+vuln testing 
+
+My Website 
+---------------------------------
+www.blakewebsite.com
 
