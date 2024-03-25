@@ -7,13 +7,14 @@ Im a aspiring cybersecurity person looking to get into the field after high scho
 
 I know all of these topic below
 ---------------------------------
-🐍 intermedite python, 
-🔌intermedite networking, 
-intermedite java, 
-intermedite linux
+🐍 python, 
+🔌 networking, 
+java, 
+linux
 pentesting 
 windows and macos systems 
-vuln testing 
+Vulnerability testing 
+AI
 
 My Website 
 ---------------------------------
