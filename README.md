@@ -3,20 +3,27 @@
 
 My name is BJW333
 ---------------------------------
-Im a aspiring cybersecurity person looking to get into the field after high school. 
+Im a aspiring technology focused person looking to get into the field. 
 
 I know all of these topic below
 ---------------------------------
-🐍 python, 
-🔌 networking, 
-java, 
-linux
-pentesting 
-windows and macos systems 
+Python
+Networking
+Java 
+C++
+Assembly 
+Linux
+Pentesting 
+Windows and Macos systems 
 Vulnerability testing 
-AI
+AI and ML
+Anything Data Related 
 
-My Website 
+Certificates
+----------------------------
+[Uploading 1321_3_726570_1720456993_Databricks - Generic.pdf…]()
+
+My Website (not updated)
 ---------------------------------
 www.blakewebsite.com
 
