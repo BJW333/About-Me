@@ -20,8 +20,9 @@ AI and ML
 Anything Data Related 
 
 Certificates
-----------------------------
-[Uploading 1321_3_726570_1720456993_Databricks - Generic.pdf…]()
+---------------------------------
+See files uploaded
+
 
 My Website (not updated)
 ---------------------------------
